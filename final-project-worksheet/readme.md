@@ -18,7 +18,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+My final project will be a website for a lawyer. My father has been practiving for 25+ years and does not have a personal website to advertise his practice. 
 
 ## Wireframes
 
