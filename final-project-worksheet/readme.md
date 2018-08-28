@@ -22,7 +22,9 @@ My final project will be a website for a lawyer. My father has been practiving f
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
+https://cloudinary.com/console/media_library/asset/image/upload/Screen_Shot_2018-08-25_at_8.58.11_PM
+
+Basic outline showing structure of law website
 
 ## Priority Matrix
 
